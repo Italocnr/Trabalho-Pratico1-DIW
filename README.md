@@ -1,8 +1,8 @@
-# Trabalho Prático 05 - Semanas 7 e 8
+# Trabalho Prático1
 
-**Páginas de detalhes dinâmicas**
+**Páginas de detalhes dinâmicas e responsividade**
 
-Nessa etapa, vamos evoluir o trabalho anterior, acrescentando a página de detalhes, conforme o  projeto escolhido. Imagine que a página principal (home-page) mostre um visão dos vários itens que existem no seu site. Ao clicar em um item, você é direcionado pra a página de detalhes. A página de detalhe vai mostrar todas as informações sobre o item do seu projeto. seja esse item uma notícia, filme, receita, lugar turístico ou evento.
+Nesse trabalho, vamos montar a primeira versão mais completa do nosso projeto, conforme projeto que você escolheu. O site deve ser totalmente responsivo, adaptável a desktops e celulares, e apresentar informações montadas de forma dinâmica a partir de código JavaScript e uma estrutura JSON.
 
 Leia o enunciado completo no Canvas. 
 
